@@ -1,0 +1,21 @@
+INSERT INTO CONTA (ID, TITULAR, SALDO)
+VALUES
+    (1, 'Antônio Silva Junior', 4576.87),(2, 'Beatriz Souza Santos', 1250.00),
+    (3, 'Carlos Eduardo Lima', 850.50),
+    (4, 'Daniela Ribeiro Costa', 3100.25),
+    (5, 'Felipe Augusto Almeida', 15750.00),
+    (6, 'Gabriela Rocha Mendes', 420.10),
+    (7, 'Gustavo Henrique Oliveira', 2350.80),
+    (8, 'Helena Castro Nogueira', 9150.00),
+    (9, 'Igor Vinícius Barbosa', 75.00),
+    (10, 'Juliana Priscila Martins', 5300.45),
+    (11, 'Lucas Gabriel Ferreira', 120.00),
+    (12, 'Mariana Dias Carvalho', 6400.15),
+    (13, 'Nicolas Rezende Vieira', 1850.90),
+    (14, 'Olívia Teles Fonseca', 22300.00),
+    (15, 'Pedro Renato Cardoso', 0.00),
+    (16, 'Rafael Gomes Teixeira', 3450.60),
+    (17, 'Sofia Meireles Ramos', 7890.30),
+    (18, 'Thiago Augusto Moraes', 550.00),
+    (19, 'Vanessa Cristina Sales', 12450.75),
+    (20, 'Yago Fernando Cunha', 15.50);
